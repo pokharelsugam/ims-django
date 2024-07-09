@@ -58,7 +58,7 @@ Inventory Management System built with Django Rest Framework
 6. Clone the repository
    <pre><code>
    git clone https://github.com/pokharelsugam/ims-django.git
-   cd elibrary-django
+   cd ims-django
    </code></pre>
 8. Create a virtual environment and activate it.
    <pre><code>
